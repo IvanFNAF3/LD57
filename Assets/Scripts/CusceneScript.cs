@@ -15,6 +15,6 @@ public class CusceneScript : MonoBehaviour
     {
         PlayerPrefs.DeleteKey("checkpointX");
         PlayerPrefs.DeleteKey("checkpointY");
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(0);
     }
 }
