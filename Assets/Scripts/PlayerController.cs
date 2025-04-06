@@ -95,7 +95,7 @@ public class PlayerController : MonoBehaviour
 
     public void Reset()
     {
-        jumpForce = 8.5f;
+        jumpForce = 10f;
         moveSpeed = 3.5f;
     }
 }
