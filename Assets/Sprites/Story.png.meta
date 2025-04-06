@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: d4257a203136b4e429f1884e8e5d6b82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9210366694652337583
+    second: Story_0
+  - first:
+      213: -4412567300821739499
+    second: Story_1
+  - first:
+      213: 505200787837130853
+    second: Story_2
+  - first:
+      213: 2650128726548121996
+    second: Story_3
+  - first:
+      213: -3501078889229900185
+    second: Story_4
+  - first:
+      213: -8575799742816649898
+    second: Story_5
+  - first:
+      213: 3725414577393481196
+    second: Story_6
+  - first:
+      213: 8465990430015430879
+    second: Story_7
+  - first:
+      213: 3980467026658524611
+    second: Story_8
+  - first:
+      213: -1105771043856155213
+    second: Story_9
+  - first:
+      213: 7419072146623032362
+    second: Story_10
+  - first:
+      213: -3383664261578183060
+    second: Story_11
+  - first:
+      213: 1793547178143966948
+    second: Story_12
+  - first:
+      213: 8165964413826782795
+    second: Story_13
+  - first:
+      213: -5407693335168487080
+    second: Story_14
+  - first:
+      213: 8059197388453481087
+    second: Story_15
+  - first:
+      213: 6721466054401809403
+    second: Story_16
+  - first:
+      213: 5139281475682721702
+    second: Story_17
+  - first:
+      213: -6378494838748716978
+    second: Story_18
+  - first:
+      213: 187506015511403899
+    second: Story_19
+  - first:
+      213: 6569833310398413379
+    second: Story_20
+  - first:
+      213: 1493558707373142557
+    second: Story_21
+  - first:
+      213: -180101449319413494
+    second: Story_22
+  - first:
+      213: -3914370043797519469
+    second: Story_23
+  - first:
+      213: 2952502360191356850
+    second: Story_24
+  - first:
+      213: 6127176101887522471
+    second: Story_25
+  - first:
+      213: -1710815364052618715
+    second: Story_26
+  - first:
+      213: 4722985997408845329
+    second: Story_27
+  - first:
+      213: -6513362079580398129
+    second: Story_28
+  - first:
+      213: 4223872056959925552
+    second: Story_29
+  - first:
+      213: -2459726918471006795
+    second: Story_30
+  - first:
+      213: -7012356646637906661
+    second: Story_31
+  - first:
+      213: 3099127894949469851
+    second: Story_32
+  - first:
+      213: -5076075043258614469
+    second: Story_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Story_0
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 617
+        width: 170
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad57ddc5bbc1df70800000000000000
+      internalID: 9210366694652337583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_1
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 783
+        width: 79
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518140f2b6963c2c0800000000000000
+      internalID: -4412567300821739499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_2
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 786
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568974b9075d20700800000000000000
+      internalID: 505200787837130853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_3
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 784
+        width: 213
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8985fa290627c420800000000000000
+      internalID: 2650128726548121996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_5
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 813
+        width: 187
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65df6880293acf880800000000000000
+      internalID: -8575799742816649898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_6
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 601
+        width: 246
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5b99ee1d453b330800000000000000
+      internalID: 3725414577393481196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_11
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 552
+        width: 136
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ea271184fca01d0800000000000000
+      internalID: -3383664261578183060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_13
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 600
+        width: 218
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4650a68e55535170800000000000000
+      internalID: 8165964413826782795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_24
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 408
+        width: 109
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf45b9e04569f820800000000000000
+      internalID: 2952502360191356850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_25
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 464
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6b445933a180550800000000000000
+      internalID: 6127176101887522471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_27
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 465
+        width: 126
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eb2bebdba6b8140800000000000000
+      internalID: 4722985997408845329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_28
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 266
+        width: 320
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd5c19a2b3eb95a0800000000000000
+      internalID: -6513362079580398129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_29
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 419
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d7bcbb1453e9a30800000000000000
+      internalID: 4223872056959925552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_32
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 89
+        width: 377
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e97fb8660520b20800000000000000
+      internalID: 3099127894949469851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story_33
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 96
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d385174a82e89b0800000000000000
+      internalID: -5076075043258614469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 69098b26827e584458a8c03c8bf4e3f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Story_0: 9210366694652337583
+      Story_1: -4412567300821739499
+      Story_11: -3383664261578183060
+      Story_12: 1793547178143966948
+      Story_13: 8165964413826782795
+      Story_19: 187506015511403899
+      Story_2: 505200787837130853
+      Story_22: -180101449319413494
+      Story_24: 2952502360191356850
+      Story_25: 6127176101887522471
+      Story_27: 4722985997408845329
+      Story_28: -6513362079580398129
+      Story_29: 4223872056959925552
+      Story_3: 2650128726548121996
+      Story_32: 3099127894949469851
+      Story_33: -5076075043258614469
+      Story_4: -3501078889229900185
+      Story_5: -8575799742816649898
+      Story_6: 3725414577393481196
+      Story_7: 8465990430015430879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
